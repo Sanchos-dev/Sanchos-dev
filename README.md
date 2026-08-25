@@ -21,8 +21,8 @@
 ### Overview
 Hi! My name is Sanchos aka Alex.
 17 y.o.
-Furry fox ^^
-I love coding, vhs, drawing and a lot more
+Furry fox ^^  
+I love coding, vhs, drawing and a lot more.
 I am a full-stack developer focused on creating self-hosted platforms and backend systems. Comfortable working across the entire development cycle, from architecture and implementation to penetration testing and server deployment.
 
 I'm just a simple guy with blackjack and hookers :3
