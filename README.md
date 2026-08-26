@@ -48,7 +48,7 @@ I'm just a simple guy with blackjack and hookers :3
 ### Tech Stack & Tooling
 
 ```text
-Languages:       JavaScript, Python, Go, С#, lua, bash
+Languages:       JavaScript, Python, java, Go, С#, lua, bash
 Frontend:        React, Next.js, Tailwind CSS, HTML5/CSS3
 Backend & DB:    Node.js, Express, PostgreSQL, Redis, REST APIs
 Infra & Sec:     Docker, Linux, Nginx, Pentesting, Git
