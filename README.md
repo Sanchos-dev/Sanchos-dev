@@ -11,9 +11,6 @@
   <a href="https://sanchos.su/">
     <img src="https://img.shields.io/badge/Website-sanchos.su-0f172a?style=flat-square&labelColor=090d16" alt="Website">
   </a>
-  <a href="https://github.com/Sanchos-dev">
-    <img src="https://img.shields.io/badge/GitHub-Sanchos--dev-0f172a?style=flat-square&labelColor=090d16" alt="GitHub">
-  </a>
 </p>
 
 ---
