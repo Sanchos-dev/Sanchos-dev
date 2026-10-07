@@ -30,7 +30,7 @@ I am a full-stack developer focused on creating self-hosted platforms and backen
 
 Comfortable working across the entire development cycle, from architecture and implementation to penetration testing and server deployment.
 
-I'm just a simple guy with blackjack and hookers :3
+I'm just a simple guy that creates projects with blackjack and hookers :3
 
 ### Featured Projects
 
