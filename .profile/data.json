@@ -1,0 +1,188 @@
+{
+ "key": "47a85fe9",
+ "stars": 8,
+ "contributions": 157,
+ "repos": 7,
+ "followers": 0,
+ "languages": [
+  [
+   "Python",
+   86345
+  ],
+  [
+   "JavaScript",
+   23114
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 5,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 21,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "cotl-save-sync",
+   "url": "https://github.com/Sanchos-dev/cotl-save-sync",
+   "text": "Cult of the Lamb Save Sync & Backup Utility",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "motiff",
+   "url": "https://github.com/Sanchos-dev/motiff",
+   "text": "Motiff is an open-source music player for linux with simple ui.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "kd-save-sync",
+   "url": "https://github.com/Sanchos-dev/kd-save-sync",
+   "text": "Keep Driving two way save sync & backup utility. Nintendo switch and pc",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SanChat",
+   "url": "https://github.com/Sanchos-dev/SanChat",
+   "text": "simple open source discord-like messeneger that you can host for your friends",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Pinterest2Tg",
+   "url": "https://github.com/Sanchos-dev/Pinterest2Tg",
+   "text": "Just a tool to copy pinterest images into telegram window in hyprland",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "SanchosCTL",
+   "url": "https://github.com/Sanchos-dev/SanchosCTL",
+   "text": "CLI tool for SanchosOS",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Sanchos-dev",
+   "url": "https://github.com/Sanchos-dev/Sanchos-dev",
+   "text": "just my profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
