@@ -1,6 +1,6 @@
 {
- "key": "47a85fe9",
- "stars": 8,
+ "key": "451edde0",
+ "stars": 7,
  "contributions": 157,
  "repos": 7,
  "followers": 0,
@@ -140,15 +140,6 @@
    "topics": []
   },
   {
-   "name": "kd-save-sync",
-   "url": "https://github.com/Sanchos-dev/kd-save-sync",
-   "text": "Keep Driving two way save sync & backup utility. Nintendo switch and pc",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "SanChat",
    "url": "https://github.com/Sanchos-dev/SanChat",
    "text": "simple open source discord-like messeneger that you can host for your friends",
@@ -173,6 +164,15 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "kd-save-sync",
+   "url": "https://github.com/Sanchos-dev/kd-save-sync",
+   "text": "Keep Driving two way save sync & backup utility. Nintendo switch and pc",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
