@@ -1,51 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e293b,100:0f172a&height=180&section=header&text=%20SANCHOS%20:3%20&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m SANCHOS"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="31.124%" alt=""></picture><a href="https://sanchos.su"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="19.626%" alt="public"></picture></a><a href="https://t.me/SANCHOS095"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.122%" alt="telegram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="31.124%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech Stack"></picture>
+
+<a href="https://github.com/Sanchos-dev/motiff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-motiff-dark.svg"><img src="assets/project-motiff-light.svg" width="49%" alt="motiff"></picture></a>&nbsp;<a href="https://github.com/Sanchos-dev/SanChat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sanchat-dark.svg"><img src="assets/project-sanchat-light.svg" width="49%" alt="SanChat"></picture></a>
+
+<a href="https://github.com/Sanchos-dev/cotl-save-sync"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cotl-save-sync-dark.svg"><img src="assets/project-cotl-save-sync-light.svg" width="49%" alt="cotl-save-sync"></picture></a>&nbsp;<a href="https://github.com/Sanchos-dev/kd-save-sync"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kd-save-sync-dark.svg"><img src="assets/project-kd-save-sync-light.svg" width="49%" alt="kd-save-sync"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak :з"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://sanchos.su"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Sanchos-dev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Sanchos-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
-
-<p align="center">
-  <strong>Full Stack Developer </strong><br>
-  Building personal services, cloud infrastructure, and security tooling.
-</p>
-
-<p align="center">
-  <a href="https://sanchos.su/">
-    <img src="https://img.shields.io/badge/Website-sanchos.su-0f172a?style=flat-square&labelColor=090d16" alt="Website">
-  </a>
-</p>
-
----
-
-### Overview
-Hi! My name is Sanchos aka Alex.
-
-17 y.o.
-
-Fluent in Russian and English. 
-
-Furry fox ^^  
-
-I love coding, vhs, drawing and a lot more.
-
-I am a full-stack developer focused on creating self-hosted platforms and backend systems. 
-
-Comfortable working across the entire development cycle, from architecture and implementation to penetration testing and server deployment.
-
-I'm just a simple guy that creates projects with blackjack and hookers :3
-
-### Featured Projects
-
-- **[Sanchos ID](https://accounts.sanchos.su)** - authentication and profile management ecosystem.
-- **[SanchosNotes](https://sanchos.su)** - Lightweight cloud notes with instant state synchronization.
-- **[SanchosMusic](https://sanchos.su)** - Web-based audio streaming client and server.
-- **[SanchosVPN](https://sanchos.su)** - Network infrastructure and tunneling tooling (VLESS / Shadowsocks).
-- **[CotlSync](https://github.com/Sanchos-dev)** - Save synchronization and backup utility for Cult of the Lamb.
-
----
-
-### Tech Stack & Tooling
-
-```text
-Languages:       JavaScript, Python, java, Go, С#, lua, bash
-Frontend:        React, Next.js, Tailwind CSS, HTML5/CSS3
-Backend & DB:    Node.js, Express, PostgreSQL, Redis, REST APIs
-Infra & Sec:     Docker, Linux, Nginx, Pentesting, Git
