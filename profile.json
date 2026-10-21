@@ -51,6 +51,10 @@
         "label": "Full dev cycle: architecture, server deployment and pentesting"
       },
       {
+        "icon": "deployed_code",
+        "label": "Not using gen ai in my projects"
+      },
+      {
         "icon": "sports_esports",
         "label": "Love coding, drawing, VHS aesthetics and Linux ^^"
       },
