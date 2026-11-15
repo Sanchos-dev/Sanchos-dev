@@ -1,8 +1,8 @@
 {
- "key": "c9701469",
+ "key": "396b69e7",
  "stars": 8,
- "contributions": 205,
- "repos": 9,
+ "contributions": 211,
+ "repos": 10,
  "followers": 0,
  "languages": [
   [
@@ -91,7 +91,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 6,
     "day": 15,
     "today": true
    },
@@ -104,7 +104,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 5
  },
  "pins": [],
@@ -160,6 +160,15 @@
    "text": "Arch-based desktop platform with native virtualization and modular service integration",
    "fork": false,
    "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "CU_Ru_localization",
+   "url": "https://github.com/Sanchos-dev/CU_Ru_localization",
+   "text": "",
+   "fork": false,
+   "stars": 0,
    "language": null,
    "topics": []
   },
