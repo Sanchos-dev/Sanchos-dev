@@ -1,7 +1,7 @@
 {
- "key": "396b69e7",
- "stars": 8,
- "contributions": 211,
+ "key": "3f6b0773",
+ "stars": 10,
+ "contributions": 216,
  "repos": 10,
  "followers": 0,
  "languages": [
@@ -91,7 +91,7 @@
   ],
   [
    {
-    "c": 6,
+    "c": 11,
     "day": 15,
     "today": true
    },
@@ -116,6 +116,15 @@
    "fork": false,
    "stars": 3,
    "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "CU_Ru_localization",
+   "url": "https://github.com/Sanchos-dev/CU_Ru_localization",
+   "text": "Handwritten Translation of Casualties: Unknown to Russian",
+   "fork": false,
+   "stars": 2,
+   "language": null,
    "topics": []
   },
   {
@@ -160,15 +169,6 @@
    "text": "Arch-based desktop platform with native virtualization and modular service integration",
    "fork": false,
    "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "CU_Ru_localization",
-   "url": "https://github.com/Sanchos-dev/CU_Ru_localization",
-   "text": "",
-   "fork": false,
-   "stars": 0,
    "language": null,
    "topics": []
   },
