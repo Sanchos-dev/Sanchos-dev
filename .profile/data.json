@@ -1,5 +1,5 @@
 {
- "key": "cacd5ca3",
+ "key": "bb9822e4",
  "stars": 10,
  "contributions": 256,
  "repos": 10,
@@ -107,9 +107,13 @@
    {
     "c": 1,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
